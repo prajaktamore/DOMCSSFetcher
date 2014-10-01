@@ -1,6 +1,6 @@
 <p>
 A configurable web GUI tool to help users generate/understand DOM element selectors. See the example page
-<a href="https://github.com/prajaktamore/DOMCSSFetcher/DOMCSSFetcher/">here</a>
+<a href="https://github.com/prajaktamore/DOMCSSFetcher/tree/master/DOMCSSFetcher/">here</a>
 </p>
 
 Reference from Caplin Super Selector.
