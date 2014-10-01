@@ -1,0 +1,155 @@
+.DOMCSSFetcherStyle {
+    background-color: #004333;
+    border: 1px solid black;
+    border-radius: 3px;
+    font-family: Ariel;
+    font-size: 16px;
+    height: 150px;
+    opacity: 1;
+    position: absolute;
+    width: 600px;
+    z-index: 99999;
+}
+#DOMCSSFetcherStyle_tabs {
+    height: 24px;
+    margin-top: -12px;
+    padding-left: 3px;
+}
+#DOMCSSFetcherStyle_tabs > ul {
+    list-style: outside none none;
+}
+#DOMCSSFetcherStyle_tabs > ul > li {
+    -moz-user-select: none;
+    background: -moz-linear-gradient(center top , #09835e 0%, #257ab6 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);
+    border-radius: 4px 4px 0 0;
+    color: #fff;
+    display: block;
+    float: left;
+    margin: 0 2px 0 0;
+    padding: 2px 10px;
+}
+#DOMCSSFetcherStyle_tabs > ul > li:hover {
+    background: -moz-linear-gradient(center top , #edf3f1 0%, #f3f3f3 10%, #f3f3f3 50%, #edf3f1 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);
+    color: #333;
+    cursor: pointer;
+}
+#DOMCSSFetcherStyle_tabs > ul > li.DOMCSSFetcherStyle_activetab {
+    background: none repeat scroll 0 0 #edf3f1;
+    color: #005a43;
+    cursor: pointer;
+}
+.DOMCSSFetcherStyle_hidden {
+    display: none;
+}
+#DOMCSSFetcherStyle_generated {
+    background-color: #edf3f1;
+    border-top-right-radius: 3px;
+    color: #005a43;
+    font-family: Courier;
+    font-size: 0.8em;
+    height: 90px;
+    margin-left: 3px;
+    margin-right: 3px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+	overflow: scroll;
+}
+.DOMCSSFetcherStyle_genoptions {
+    background-color: #edf3f1;
+    border: 1px solid black;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    color: #005a43;
+    font-family: Courier;
+    font-size: 0.8em;
+    height: 18px;
+    line-height: 16px;
+    margin-left: 3px;
+    margin-right: 3px;
+    padding-left: 5px;
+}
+.DOMCSSFetcherStyle_genoptions input {
+    vertical-align: middle;
+}
+.DOMCSSFetcherStyle_genoptions span {
+    vertical-align: middle;
+}
+.config_area {
+    height: 65px;
+    margin-top: 5px;
+    width: 578px;
+}
+#DOMCSSFetcherStyle_config1 {
+    background-color: #edf3f1;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    border-top-right-radius: 3px;
+    color: #005a43;
+    font-family: Courier;
+    font-size: 0.8em;
+    height: 105px;
+    margin-left: 3px;
+    margin-right: 3px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+}
+#DOMCSSFetcherStyle_config2 {
+    background-color: #edf3f1;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    border-top-right-radius: 3px;
+    color: #005a43;
+    font-family: Courier;
+    font-size: 0.8em;
+    height: 105px;
+    margin-left: 3px;
+    margin-right: 3px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+}
+#DOMCSSFetcherStyle_config3 {
+    background-color: #edf3f1;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    border-top-right-radius: 3px;
+    color: #005a43;
+    font-family: Courier;
+    font-size: 0.8em;
+    height: 105px;
+    margin-left: 3px;
+    margin-right: 3px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+}
+.DOMCSSFetcherStyle_dockright {
+    bottom: 5px;
+    position: fixed;
+    right: 5px;
+}
+.DOMCSSFetcherStyle_dockleft {
+    bottom: 5px;
+    left: 5px;
+    position: fixed;
+}
+.DOMCSSFetcherStyle_lefticon {
+    background-image: url("img/dock_left.png");
+    background-repeat: no-repeat;
+    color: grey;
+    height: 16px;
+    margin-right: 584px;
+    position: absolute;
+    width: 16px;
+}
+.DOMCSSFetcherStyle_righticon {
+    background-image: url("img/dock_right.png");
+    background-repeat: no-repeat;
+    color: grey;
+    height: 16px;
+    margin-left: 584px;
+    position: absolute;
+    width: 16px;
+}
