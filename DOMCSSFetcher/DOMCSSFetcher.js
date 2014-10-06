@@ -329,7 +329,7 @@ for (var x = 0; x < pClassArray.length; x++)
 DOMCSSFetcher.prototype.initialize = function(oSS)
 {
 	var css = document.createElement('link');
-	css.href = "https://github.com/prajaktamore/DOMCSSFetcher/tree/master/DOMCSSFetcher/style.css";
+	css.href = "https://prajaktamore.github.io/DOMCSSFetcher/DOMCSSFetcher/style.css";
 	css.type = 'text/css';
 	css.rel = 'stylesheet';
 	var head = document.getElementsByTagName('head')[0];
