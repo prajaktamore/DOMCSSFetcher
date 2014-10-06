@@ -1,3 +1,8 @@
+Added new functionality.
+Binghamton University
+2014 Prajakta More
+
+
 The MIT License
 Copyright (C) 2012 Priyank Vyas
 Permission is hereby granted, free of charge, to any person obtaining a copy
